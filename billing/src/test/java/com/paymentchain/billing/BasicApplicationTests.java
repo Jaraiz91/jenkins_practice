@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	String message= "Default message cambio test nuevo webhook"
+	String message= "Default message cambio test  webhook"
 	Assert.assertNotNull(message)
 	}
 
